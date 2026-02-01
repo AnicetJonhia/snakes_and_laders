@@ -58,6 +58,12 @@ The script will:
 
 ## Questions & Answers
 
+### Quick Links
+- [Question 1: Solo Game](#question-1-solo-game)
+- [Question 2: Two-Player Game - Combined Rolls](#question-2-two-player-game---combined-rolls)
+- [Question 3: Two-Player Game - Win Probability](#question-3-two-player-game---win-probability)
+- [Question 4: Fair Odds Adjustment](#question-4-fair-odds-adjustment)
+
 ### Question 1: Solo Game
 **"If you played the game by yourself, what is the average number of rolls required to finish?"**
 
